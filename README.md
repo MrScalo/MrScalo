@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... Different Projects
+- 🔭 I’m currently working on ... Search-IT
 - 🌱 I’m currently learning ... Python
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Mail](mailto:scalo8734hi@gmail.com)
