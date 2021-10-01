@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ... Search-IT
-- 🌱 I’m currently learning ... Python
+- 🔭 I’m currently working on ... Something
+- 🌱 I’m currently learning ... Manything
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Mail](mailto:scalo8734hi@gmail.com)
 - 😄 Pronouns: ... He/Him
